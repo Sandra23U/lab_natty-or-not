@@ -48,6 +48,7 @@ O GuardianAI demonstrou resultados incríveis na detecção de phishing, mesmo e
 <td><img src="images/Atendimento.png" style="width: 100%; height: auto;"></td></td>
 <td><img src="images/geminiEmailOne.png" style="width: 100%; height: auto;"></td>
 <td><img src="images/geminiJustificationOne.png" style="width: 100%; height: auto;"></td>
+<td><img src="images/GPTEmailOne.png" style="width: 100%; height: auto;"></td>
 <td><img src="images/RespostaGPTEmailOne.png" style="width: 100%; height: auto;"></td>
 <td><img src="images/AnaliseEmailOne.png" style="width: 100%; height: auto;"></td>
 </tr>
@@ -60,6 +61,7 @@ O GuardianAI demonstrou resultados incríveis na detecção de phishing, mesmo e
 <td><img src="images/Atendimento.png" style="width: 100%; height: auto;"></td></td>
 <td><img src="images/geminiEmailTwo.png" style="width: 100%; height: auto;"></td>
 <td><img src="images/geminiJustificationTwo.png" style="width: 100%; height: auto;"></td>
+<td><img src="images/GPTEmailTwo.png" style="width: 100%; height: auto;"></td>
 <td><img src="images/RespostaGPTEmailTwo.png" style="width: 100%; height: auto;"></td>
 <td><img src="images/AnaliseEmailTwo.png" style="width: 100%; height: auto;"></td>
 </tr>
@@ -72,6 +74,7 @@ O GuardianAI demonstrou resultados incríveis na detecção de phishing, mesmo e
 <td><img src="images/Atendimento.png" style="width: 100%; height: auto;"></td></td>
 <td><img src="images/geminiEmailThree.png" style="width: 100%; height: auto;"></td>
 <td><img src="images/geminiJustificationThree.png" style="width: 100%; height: auto;"></td>
+<td><img src="images/GPTEmailThree.png" style="width: 100%; height: auto;"></td>
 <td><img src="images/RespostaGPTEmailThree.png" style="width: 100%; height: auto;"></td>
 <td><img src="images/AnaliseEmailThree.png" style="width: 100%; height: auto;"></td>
 </tr>

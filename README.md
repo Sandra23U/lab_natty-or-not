@@ -1,4 +1,4 @@
-<h1 align="center">💪🤓 Projeto NattyOrNot</h1>
+<h1 align="center">Projeto NattyOrNot</h1>
 <div align="justify">   
 O termo "NattyOrNot" refere-se à criação de sistemas de inteligência artificial (IA) que imitam o comportamento humano de forma tão convincente que se torna difícil distinguir se a interação é com uma máquina ou com uma pessoa real.
 
@@ -35,47 +35,9 @@ O GuardianAI comprova o potencial da IA na cibersegurança. A abordagem simples,
 
 O projeto também destaca a importância da colaboração entre humanos e IA. A expertise humana é crucial para refinar prompts e interpretar resultados, enquanto a IA processa grandes volumes de dados e identifica padrões. Essa sinergia é essencial para enfrentar os desafios da cibersegurança.
 
-## 🚀 Resultados
 
-O GuardianAI demonstrou resultados incríveis na detecção de phishing, mesmo em casos de "falso-positivo", orientando o usuário sobre as melhores práticas de segurança. A implementação do modelo GPT permitiu respostas rápidas e eficientes, economizando tempo e recursos. O GuardianAI demonstrou resultados incríveis na detecção de tentativas de phishing em e-mails. Mesmo quando apresentado um e-mail do tipo "falso-positivo", ao levar em consideração o contexto do cliente, identificou o e-mail como verdadeiro e não um ataque de phishing, mas a parte mais importante: Ainda quando o e-mail foi identificado como verdadeiro, o chatGPT repassou como o usuário deveria agir, indicando que mesmo que o e-mail seja verdadeiro, o usuário não deveria clicar nos links, mas sim entrar em contato diretamente com a empresa ou pessoa que enviou o e-mail. No geral, o GuardianAI mostra-se uma ferramenta poderosa na proteção contra ameaças cibernéticas. Além disso, a implementação do modelo GPT permitiu uma resposta mais rápida e eficiente a possíveis ameaças, economizando tempo e recursos para as equipes de segurança.</div>
 
-## 🌟 Alguns testes (Clique nas imagens para vê-las maiores):
 
-* Email One
-
-<table style="width: 100%;">
-<tr>
-<td><img src="images/Atendimento.png" style="width: 100%; height: auto;"></td></td>
-<td><img src="images/geminiEmailOne.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/geminiJustificationOne.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/GPTEmailOne.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/RespostaGPTEmailOne.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/AnaliseEmailOne.png" style="width: 100%; height: auto;"></td>
-</tr>
-</table>
     
-* Email Two
 
-<table style="width: 100%;"> 
-<tr>
-<td><img src="images/Atendimento.png" style="width: 100%; height: auto;"></td></td>
-<td><img src="images/geminiEmailTwo.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/geminiJustificationTwo.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/GPTEmailTwo.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/RespostaGPTEmailTwo.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/AnaliseEmailTwo.png" style="width: 100%; height: auto;"></td>
-</tr>
-</table>  
 
-* Email Three
-
-<table style="width: 100%;"> 
-<tr>
-<td><img src="images/Atendimento.png" style="width: 100%; height: auto;"></td></td>
-<td><img src="images/geminiEmailThree.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/geminiJustificationThree.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/GPTEmailThree.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/RespostaGPTEmailThree.png" style="width: 100%; height: auto;"></td>
-<td><img src="images/AnaliseEmailThree.png" style="width: 100%; height: auto;"></td>
-</tr>
-</table>
